@@ -1,0 +1,15 @@
+C:\Users\Ideapad\Documents\Programation\DIO\BootCamp.Net\Projetos\ExercicioHospedagem\bin\Debug\net8.0\ExercicioHospedagem.exe
+C:\Users\Ideapad\Documents\Programation\DIO\BootCamp.Net\Projetos\ExercicioHospedagem\bin\Debug\net8.0\ExercicioHospedagem.deps.json
+C:\Users\Ideapad\Documents\Programation\DIO\BootCamp.Net\Projetos\ExercicioHospedagem\bin\Debug\net8.0\ExercicioHospedagem.runtimeconfig.json
+C:\Users\Ideapad\Documents\Programation\DIO\BootCamp.Net\Projetos\ExercicioHospedagem\bin\Debug\net8.0\ExercicioHospedagem.dll
+C:\Users\Ideapad\Documents\Programation\DIO\BootCamp.Net\Projetos\ExercicioHospedagem\bin\Debug\net8.0\ExercicioHospedagem.pdb
+C:\Users\Ideapad\Documents\Programation\DIO\BootCamp.Net\Projetos\ExercicioHospedagem\obj\Debug\net8.0\ExercicioHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ideapad\Documents\Programation\DIO\BootCamp.Net\Projetos\ExercicioHospedagem\obj\Debug\net8.0\ExercicioHospedagem.AssemblyInfoInputs.cache
+C:\Users\Ideapad\Documents\Programation\DIO\BootCamp.Net\Projetos\ExercicioHospedagem\obj\Debug\net8.0\ExercicioHospedagem.AssemblyInfo.cs
+C:\Users\Ideapad\Documents\Programation\DIO\BootCamp.Net\Projetos\ExercicioHospedagem\obj\Debug\net8.0\ExercicioHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\Ideapad\Documents\Programation\DIO\BootCamp.Net\Projetos\ExercicioHospedagem\obj\Debug\net8.0\ExercicioHospedagem.sourcelink.json
+C:\Users\Ideapad\Documents\Programation\DIO\BootCamp.Net\Projetos\ExercicioHospedagem\obj\Debug\net8.0\ExercicioHospedagem.dll
+C:\Users\Ideapad\Documents\Programation\DIO\BootCamp.Net\Projetos\ExercicioHospedagem\obj\Debug\net8.0\refint\ExercicioHospedagem.dll
+C:\Users\Ideapad\Documents\Programation\DIO\BootCamp.Net\Projetos\ExercicioHospedagem\obj\Debug\net8.0\ExercicioHospedagem.pdb
+C:\Users\Ideapad\Documents\Programation\DIO\BootCamp.Net\Projetos\ExercicioHospedagem\obj\Debug\net8.0\ExercicioHospedagem.genruntimeconfig.cache
+C:\Users\Ideapad\Documents\Programation\DIO\BootCamp.Net\Projetos\ExercicioHospedagem\obj\Debug\net8.0\ref\ExercicioHospedagem.dll
